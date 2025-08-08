@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @drewaray
-- 👀 I’m interested in mathematics (namely geometry and topology).
-- 🌱 I’m currently learning about seiberg-witten invariants.
+- 👀 I’m interested in mathematics.
+- 🌱 I’m currently learning about math.
 - 💞️ I’m looking to collaborate on things.
 - 📫 How to reach me drewaray@gmail.com.
 
